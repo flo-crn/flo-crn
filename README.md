@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a student in M2 Data Science in Institut Agro Rennes
-I'm looking for a 6 months internship in Data Science applied to fields such as ecology, environment, health, biology ... I like to learn and discover new fields
+I'm looking for a Data Scientist position, in the following fields : biology, ecology, environment, health...  I like to learn and discover new fields
 
 
 # 💻 Tech Stack:
